@@ -1,0 +1,50 @@
+/* untuk style app.js */
+.bekgron {
+    height: 100vh;
+    background: url("../assets/image/background/movie.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.trending-movie {
+    height: auto;
+    background: url("../assets/image/background/space.jpg");
+    background-size: cover;
+}
+
+.superhero {
+    height: auto;
+    background: url("../assets/image/Superhero/spider.jpg");
+    background-size: cover;
+}
+
+
+.moviewrapper{
+}
+
+
+
+.movieimage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images{
+    height: 500px;
+}
